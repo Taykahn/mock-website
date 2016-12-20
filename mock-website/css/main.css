@@ -1,0 +1,68 @@
+font-family: 'Open Sans', sans-serif;
+
+.main-header {
+  padding-top: 200px;
+  height: 400px;
+  
+  background: linear-gradient(lightblue, transparent 90%),
+              linear-gradient(0deg, #fff, transparent),
+              #ffa949 url('../images/pappys-store.jpg') no-repeat center;
+  
+  
+  background-size: cover;
+}
+
+header {
+	background-color: grey;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+
+
+nav {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+nav a {
+	color: black;
+	margin: 15px;
+}
+
+h3 {
+	float: right;
+}
+
+.h3-content {
+	float: right;
+}
+
+.main-content {
+	width: 100%;
+}
+
+.float-r { 
+	float: right; 
+	} 
+	@media(min-width: 767px) {
+		.float-r {
+			float: none;
+			}
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
